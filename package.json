@@ -1,0 +1,16 @@
+{
+  "name": "silverpop_node",
+  "version": "1.0.0",
+  "description": "Example Silverpop SOAP requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Khan",
+  "license": "ISC",
+  "dependencies": {
+    "easy-soap-request": "^2.1.4",
+    "xml2js": "^0.4.19"
+  }
+}

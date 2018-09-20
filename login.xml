@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sil="SilverpopApi:EngageService.SessionMgmt.Login">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <sil:Login>
+         <sil:USERNAME></sil:USERNAME>
+         <sil:PASSWORD></sil:PASSWORD>
+      </sil:Login>
+   </soapenv:Body>
+</soapenv:Envelope>
